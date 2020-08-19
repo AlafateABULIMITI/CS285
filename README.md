@@ -1,2 +1,3 @@
 # CS285
-Materials and Homeworks
+
+UC Berkeley CS285 materials, notes and homeworks
